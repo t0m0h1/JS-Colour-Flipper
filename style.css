@@ -46,16 +46,23 @@ body {
 h4 {
     color: #6c757d;
     margin-bottom: 20px;
-    margin-left: 50px;
     font-size: 24px;
     font-weight: 700;
     
 }
 
+h2 {
+    color: #f15025;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
 button {
     padding: 10px 20px;
     border: none;
-    background-color: #f15025;
+    background-color: #6e6967;
     color: #ffffff;
     font-weight: 600;
     border-radius: 5px;
